@@ -124,16 +124,17 @@ passwordKey: passwordKey123456789
 
 If the password key is not provided or incorrect, the API will return a response with HTTP status code 403 Forbidden.
 
+
 ### ScreenShots
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/52291434-b624-4599-adcb-275f38086457" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588253-c2960fe3-6b0a-47fc-98d5-697e29c6d395.png" alt="netwebapi">
 <hr>
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/2c0abc34-cc20-451e-a01c-ce338f49503c" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588317-6c627ddc-351b-490b-8e59-599cbb64a103.png" alt="netwebapi">
 <hr>
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/627b6607-6a94-4887-a257-18d47c0bb6ed" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588417-da3dc10e-9d75-41c6-93d1-2e523778c8f7.png" alt="netwebapi">
 <hr>
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/c62ec850-ab0e-424c-a0cf-ecc579c13668" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588572-c4282953-a82b-47da-a84c-8ed50016920c.png" alt="netwebapi">
 <hr>
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/22549cc4-2750-4fa5-930b-c8bb3ef9d18a" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588611-613acf57-4faa-413a-ae4e-917cd7db03ad.png" alt="netwebapi">
 
 
 ## Answer 2
@@ -143,7 +144,7 @@ This answer contains a SQL file for querying the ownership and price information
   `real_estate_owners.sql`: This SQL file contains the query to retrieve the IDs of owners who meet the specified criteria. It utilizes two tables: ownership and price, which hold information about the ownership and prices of houses, respectively. The query fetches the result according to the criteria and formats it as BUYER_ID and TOTAL_WORTH.
   
 ### ScreenShot
-<img src="https://github.com/berkbeleli/Answerss/assets/44535117/2b14e9bb-37dc-43a4-b60b-ac6aba56d4b3" alt="netwebapi">
+<img src="https://user-images.githubusercontent.com/44535117/241588693-342880f2-ac90-4f5f-851c-aad162afe44f.png" alt="netwebapi">
 
 
 ## Answer 3
